@@ -1,1 +1,7 @@
-/application/migrations/
+*/migrations/
+/venv/
+/.idea
+/db.sqlite3
+*/__pycache__/
+service_studio/.env
+
